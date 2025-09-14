@@ -2,19 +2,12 @@ main:
 
   - title: Nanometer-resolution white-light scanning interferometry for surface-profiling of hybrid bonding samples for advanced semiconductor packaging
     authors: <strong>Huy Hoang Chu</strong>, Dae Hee Kim, Jun Hyung Park, Sukkyung Kang, Jaiho Son, Hyunmin Lee, Hongki Yoo, Seung-Woo Kim, Sanha Kim, Young-Jin Kim*(*Corresponding authors)
-    conference_short: MICCAI
     conference: Applied Surface Science, 2025.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
 
   - title: "Frequency-comb-referenced multiwavelength interferometry for high-precision and high-speed 3D measurement in heterogeneous semiconductor packaging"
     authors: Jun Hyung Park, Dae Hee Kim, <strong>Huy Hoang Chu</strong>, Ji Won Hahm, Guseon Kang, Dongil Lee, Seyong Song, Mingu Kang, Seung-Woo Kim, Young-Jin Kim*(*Corresponding authors)
-    conference_short: CVPR
     conference: Nanophotonics, 2025.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image: ./assets/img/nano.png
