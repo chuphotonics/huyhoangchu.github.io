@@ -3,19 +3,21 @@ layout: homepage
 ---
 
 ## About Me
+Graduate Student Researcher at CNRS-International-NTU-Thales Research Alliance (CINTRA) (NTU Singapore).
 
-test
+## Education
+- **[2029 Hopefully]** Doctor of Philosophy, Electrical and Electronics Engineering, Nanyang Technological University (NTU, Singapore
+- **[2025]** Master of Science, Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST), South Korea
+- **[2022]** Engineering Degree, Mechanical Engineering, Ho Chi Minh City University of Technology and Education (HCMUTE), Vietnam
+
 ## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Quantum Optics:** Supperadiance, Supperfluorences, Decoherence
+- **Topological Photonics:** Zero-index metamaterial (ZIM), bounce state in the continuum (BIC),
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2025]** the page was on :))).
+
 
 {% include_relative _includes/publications.md %}
 
