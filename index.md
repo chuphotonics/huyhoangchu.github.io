@@ -33,7 +33,8 @@ Graduate Student Researcher at CNRS-International-NTU-Thales Research Alliance (
 - **Nanometer-resolution White-light Scanning Interferometry for Surface Profiling of Hybrid Bonding Samples for Advanced Semiconductor Packaging**  
   **Huy Hoang Chu**, Dae Hee Kim, Jun Hyung Park, Sukkyung Kang, Jaiho Son, Hyunmin Lee, Hongki Yoo, Seung-Woo Kim, Sanha Kim, Young-Jin Kim  
  **Applied Surface Science** 689, 162467 (2025).
-- **NFrequency-comb-referenced multiwavelength interferometry for high-precision and high-speed 3D measurement in heterogeneous semiconductor packaging**  
+  
+- **Frequency-comb-referenced multiwavelength interferometry for high-precision and high-speed 3D measurement in heterogeneous semiconductor packaging**  
   Jun Hyung Park, Dae Hee Kim, **Huy Hoang Chu**, Ji Won Hahm, Guseon Kang, Dongil Lee, Seyong Song, Mingu Kang, Seung-Woo Kim, Young-Jin Kim
  **Nanophotonics** 14, 10, 1563-1577 (2025).
 
