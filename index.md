@@ -13,6 +13,11 @@ Graduate Student Researcher at CNRS-International-NTU-Thales Research Alliance (
 - **[2029]** PhD, Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore.
 - **[2025]** McS, Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST), South Korea.
 - **[2022]** BE, Mechanical Engineering, Ho Chi Minh City University of Technology and Education (HCMUTE), Vietnam.
+
+## Research Experience
+- **[2025-Now]** Graduate Student Researcher, CNRS-International-NTU-Thales Research Alliance (CINTRA), Singapore.
+- **[2023-2025]** Graduate Student Researcher, Ultrafast Optics for Ultraprecision Technology Research Centre of KAIST, South Korea.
+- **[2022-2023]** R&D Engineer, Samsung HCMC Research and Development Centre, Vietnam.
   
 ## Awards
 - **[2025]** NTU Research Scholarship, Nanyang Technological University Singapore.
