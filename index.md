@@ -3,7 +3,8 @@ layout: homepage
 ---
 
 ## About Me
-- PhD student in the School of Electrical and Electronic Engineering (EEE), Nanyang Technological University (NTU), Singapore.
+- PhD student in the School of Electrical and Electronic Engineering (EEE),
+  Nanyang Technological University (NTU), Singapore.
 - Graduate Student Researcher at the CNRS–International NTU–Thales Research Alliance (CINTRA).
 - I am 30% computational photonics and 70% experimental optics. My primary research topic is enhancing the collective emission effect through photonics metasurfaces.
 
