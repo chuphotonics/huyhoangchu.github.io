@@ -20,5 +20,3 @@ Graduate Student Researcher at CNRS-International-NTU-Thales Research Alliance (
 
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
