@@ -29,5 +29,12 @@ Graduate Student Researcher at CNRS-International-NTU-Thales Research Alliance (
 - **[Sep. 2025]** I will be attending 100 Years of Quantum Physics at ICISE from 06-10 Oct!
 - **[Sep. 2025]** The page was on.
 
+## Papers and Publications
+
+- Nanometer-resolution White-light Scanning Interferometry for Surface profiling of Hybrid Bonding Samples for Advanced Semiconductor Packaging
+  Huy Hoang Chu, Dae Hee Kim, Jun Hyung Park, Sukkyung Kang, Jaiho Son, Hyunmin Lee, Hongki Yoo, Seung-Woo Kim, Sanha Kim, Young-Jin Kim
+  Applied Surface Science 689, 162467 (2025)
+
+
 
 {% include_relative _includes/publications.md %}
