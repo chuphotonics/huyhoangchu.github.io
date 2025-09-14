@@ -3,10 +3,12 @@ layout: homepage
 ---
 
 ## About Me
-Graduate Student Researcher at CNRS-International-NTU-Thales Research Alliance (CINTRA).
+- PhD student in the School of Electrical and Electronic Engineering (EEE), Nanyang Technological University (NTU), Singapore.
+- Graduate Student Researcher at the CNRS–International NTU–Thales Research Alliance (CINTRA).
+- I am 30% computational photonics and 70% experimental optics. My primary research topic is enhancing the collective emission effect through photonics metasurfaces.
 
 ## Research Interests
-- **Quantum Optics:** Supperadiance, Supperfluorences, Decoherence.
+- **Quantum Optics:** Superradiance, Supperfluorences, Decoherence.
 - **Topological Photonics:** Zero-Index Metamaterial (ZIM), Bounce State in the Continuum (BIC).
 
 ## Education
@@ -26,7 +28,7 @@ Graduate Student Researcher at CNRS-International-NTU-Thales Research Alliance (
   
 ## News
 
-- **[Oct. 2025]** I will be attending 100 Years of Quantum Physics at ICISE from 06-10 Oct!
+- **[Oct. 2025]** I will be attending 100 Years of Quantum Physics at ICISE Quy Nhon from 06-10 Oct!
 - **[Sep. 2025]** The page is online now !.
 
 ## Papers and Publications
