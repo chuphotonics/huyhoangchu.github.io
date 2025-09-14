@@ -7,7 +7,7 @@ Graduate Student Researcher at CNRS-International-NTU-Thales Research Alliance (
 
 ## Research Interests
 - **Quantum Optics:** Supperadiance, Supperfluorences, Decoherence.
-- **Topological Photonics:** Zero-index metamaterial (ZIM), bounce state in the continuum (BIC).
+- **Topological Photonics:** Zero-Index Metamaterial (ZIM), Bounce State in the Continuum (BIC).
 
 ## Education
 - **[2029]** PhD, Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore.
@@ -19,7 +19,7 @@ Graduate Student Researcher at CNRS-International-NTU-Thales Research Alliance (
 - **[2025]** Best Paper Award, 16th International Symposium on Measurement Technology and Intelligent Instruments (ISMTII 2025).
 - **[2023]** KAIST Scholarship, Korea Advanced Institute of Science and Technology (KAIST).
 - **[2022]** SBA Scholarship, Saigon High-tech Park Business Association, Intel Vietnam, Jabil Vietnam.
-- **[2022]** Graduated Valedictorian, Ho Chi Minh City University of Technology and Education (HCMUTE).
+- **[2022]** Valedictorian, Ho Chi Minh City University of Technology and Education (HCMUTE).
 
 ## News
 
