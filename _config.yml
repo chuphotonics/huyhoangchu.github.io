@@ -1,8 +1,8 @@
 # Basic Information 
-title: Your Name
+title: Huy Hoang Chu (Chu)
 position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+affiliation: Nanyang Technological University
+email: huyhoang001 (at) e.edu.ntu.sg
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -55,4 +55,3 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
-remote_theme: yaoyao-liu/minimal-light
