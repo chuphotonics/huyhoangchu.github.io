@@ -26,8 +26,8 @@ Graduate Student Researcher at CNRS-International-NTU-Thales Research Alliance (
   
 ## News
 
-- **[Sep. 2025]** I will be attending 100 Years of Quantum Physics at ICISE from 06-10 Oct!
-- **[Sep. 2025]** The page was on.
+- **[Oct. 2025]** I will be attending 100 Years of Quantum Physics at ICISE from 06-10 Oct!
+- **[Sep. 2025]** The page is online now !.
 
 ## Papers and Publications
 - **Nanometer-resolution White-light Scanning Interferometry for Surface Profiling of Hybrid Bonding Samples for Advanced Semiconductor Packaging**  
