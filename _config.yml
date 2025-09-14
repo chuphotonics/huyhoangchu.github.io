@@ -6,14 +6,15 @@ email: huyhoang001 (at) e.edu.ntu.sg
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Huy Hoang Chu (Chu)
+description: I’m a PhD student in EEE at NTU Singapore and a Graduate Student Researcher at CINTRA. My work blends computational photonics (30%) and experimental optics (70%) to enhance collective emission using photonic metasurfaces.
+canonical: https://huyhoang-chu.github.io/mainpage/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=w6pSKhcAAAAJ&hl=en
 linkedin: https://www.linkedin.com/in/huy-hoang-chu/
+facebook: https://www.facebook.com/chu.hoang.267736/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
